@@ -1,1 +1,1 @@
-Project initialization
+Project initialization.
