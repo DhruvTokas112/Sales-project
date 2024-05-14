@@ -22,4 +22,4 @@ def read(query):
     return df
 ```
 ***
-[Grocery](https://5.imimg.com/data5/KQ/LQ/VE/SELLER-14757215/shopping-mall-construction.jpg)
+![Grocery](https://5.imimg.com/data5/KQ/LQ/VE/SELLER-14757215/shopping-mall-construction.jpg)
