@@ -1,5 +1,5 @@
-#Heading
-### Sub=Heading
+# Heading
+### SubHeading
 
 
 ---
@@ -11,7 +11,7 @@ short bullet points
 using star for bullet points
 * point1
 * point2
-
+_The following code in SQlquery.py file is for reading the query and converting output to DataFrame_
 ```python
 def read(query):
     cursor.execute(query)
