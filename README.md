@@ -12,7 +12,7 @@ using star for bullet points
 * point1
 * point2
 
-_The following code in SQlquery.py file is for reading the query and converting output to DataFrame_
+_The following code in [SQlquery.py](https://github.com/DhruvTokas112/Sales-project/blob/main/SQLquery.py) file is for reading the query and converting output to DataFrame_
 ```python
 def read(query):
     cursor.execute(query)
