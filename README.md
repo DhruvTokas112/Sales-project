@@ -23,3 +23,10 @@ def read(query):
 ```
 ***
 ![Grocery](https://5.imimg.com/data5/KQ/LQ/VE/SELLER-14757215/shopping-mall-construction.jpg)
+
+| column1 | column 2|
+|---------|---------|
+| value1  | value 2 |
+| vaue 3  | value 4 |
+
+
