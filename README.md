@@ -19,4 +19,4 @@ def read(query):
     df=pd.DataFrame(data=rows,columns=cursor.column_names)
     df.head()
     return df
-***
+```
