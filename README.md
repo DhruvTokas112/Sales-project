@@ -21,4 +21,5 @@ def read(query):
     df.head()
     return df
 ```
-[Hackerrank](https://www.hackerrank.com/dashboard)
+***
+[Grocery](https://5.imimg.com/data5/KQ/LQ/VE/SELLER-14757215/shopping-mall-construction.jpg)
