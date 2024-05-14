@@ -1,6 +1,6 @@
 # Heading
 ### SubHeading
-
+The dataset was taken from [kaggle].(https://github.com/DhruvTokas112/Sales-project/blob/main/SQLquery.py)
 
 ---
 Write Your Project discription here.
