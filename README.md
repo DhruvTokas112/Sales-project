@@ -1,5 +1,4 @@
 # SWIFT MARKET DATASET ANALYSIS
-
 ---
 
 This project provides an in-depth analysis of the SWIFT market dataset, focusing on various aspects of sales performance, trends, and employee contributions. The analysis aims to uncover patterns, identify top performers, and provide actionable insights through data-driven methodologies.
