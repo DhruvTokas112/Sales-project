@@ -54,9 +54,5 @@ def read(query):
 ```
 ***
 
-| column1 | column 2|
-|---------|---------|
-| value1  | value 2 |
-| vaue 3  | value 4 |
-
+[Graph](https://miro.medium.com/v2/resize:fit:1400/0*uDy6jvUT2M4NKKx0.png)
 
