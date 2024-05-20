@@ -5,7 +5,7 @@ This project provides an in-depth analysis of the SWIFT market dataset, focusing
 
 [dataset](https://github.com/DhruvTokas112/Sales-project/blob/main/SwiftMarket-data.sql)
 
-![Grocery](https://cdn.dribbble.com/users/6012822/screenshots/14582729/media/ad7c9308c2929b419317afc5201531c4.jpg?resize=400x300&vertical=center) 
+![swift](https://cdn.dribbble.com/users/6012822/screenshots/14582729/media/ad7c9308c2929b419317afc5201531c4.jpg?resize=400x300&vertical=center) 
 
 
 Key Analysis
@@ -17,6 +17,7 @@ Key Analysis
  price.
 * Operational Metrics: Analyzed month-over-month growth rates, total salary expenditure by department, and the number of sales made by each customer.
 
+![Analysis](![image](https://github.com/DhruvTokas112/Sales-project/assets/154698854/b050fae4-d8df-4eb4-8e3f-683383a74141))
 
 Analysis and Findings:
 * Annual Sales Performance Visualization
