@@ -15,6 +15,8 @@ short bullet points
 using star for bullet points
 * point1
 * point2
+
+
 Analysis and Findings:
 * Annual Sales Performance Visualization
 * Monthly Sales Trend Analysis Using Moving Average
