@@ -7,7 +7,8 @@ This project provides an in-depth analysis of the SWIFT market dataset, focusing
 
 The [dataset](https://github.com/DhruvTokas112/Sales-project/blob/main/SwiftMarket-data.sql)
 
-![Grocery]([https://5.imimg.com/data5/KQ/LQ/VE/SELLER-14757215/shopping-mall-construction.jpg](https://cdn.dribbble.com/users/6012822/screenshots/14582729/media/ad7c9308c2929b419317afc5201531c4.jpg?resize=400x300&vertical=center))
+![Grocery](https://cdn.dribbble.com/users/6012822/screenshots/14582729/media/ad7c9308c2929b419317afc5201531c4.jpg?resize=400x300&vertical=center) 
+
 
 Write Your Project discription here.
 short bullet points
