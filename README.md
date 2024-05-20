@@ -3,6 +3,9 @@
 The [dataset](https://github.com/DhruvTokas112/Sales-project/blob/main/SwiftMarket-data.sql)
 
 ---
+OVERVIEW
+This project involves a comprehensive analysis of the SWIFT market dataset. The aim is to uncover insights and trends within the data, providing a deeper understanding of the market dynamics captured by SWIFT transactions.
+
 Write Your Project discription here.
 short bullet points
 - point 1
