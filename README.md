@@ -42,6 +42,11 @@ Tools and Technologies
 * Libraries: pandas, NumPy, Matplotlib, Seaborn
 * Platforms: Jupyter Notebook for interactive data analysis and visualization
 
+Usage
+* Load the dataset into the analysis environment.
+* Run the notebooks to reproduce the analysis and visualize the findings.
+* Modify the parameters as needed to explore different aspects of the data.
+
 
 _The following code in [SQlquery.py](https://github.com/DhruvTokas112/Sales-project/blob/main/SQLquery.py) file is for reading the query and converting output to DataFrame_
 ```python
@@ -53,6 +58,9 @@ def read(query):
     return df
 ```
 ***
+
+
+STOCKS
 
 ![Graph](https://miro.medium.com/v2/resize:fit:1400/0*uDy6jvUT2M4NKKx0.png)
 
