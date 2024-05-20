@@ -46,6 +46,7 @@ Usage
 * Run the notebooks to reproduce the analysis and visualize the findings.
 * Modify the parameters as needed to explore different aspects of the data.
 
+***
 
 _The following code in [SQlquery.py](https://github.com/DhruvTokas112/Sales-project/blob/main/SQLquery.py) file is for reading the query and converting output to DataFrame_
 ```python
