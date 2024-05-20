@@ -15,6 +15,22 @@ short bullet points
 using star for bullet points
 * point1
 * point2
+Analysis and Findings:
+* Annual Sales Performance Visualization
+* Monthly Sales Trend Analysis Using Moving Average
+* Month-over-Month Sales Growth Rate
+* Top-Performing Sales Representatives
+* Total Sales by Employee
+* Highest Sales Category
+* Customer Distribution by State
+* Average Quantity of Each Product Sold
+* Top Supplier by Sales
+* Total Revenue by State
+* Sales by Customer
+* Total Salary Expenditure by Department
+* Subcategory with Highest Average Unit Price
+* Total Revenue by Category
+
 
 _The following code in [SQlquery.py](https://github.com/DhruvTokas112/Sales-project/blob/main/SQLquery.py) file is for reading the query and converting output to DataFrame_
 ```python
