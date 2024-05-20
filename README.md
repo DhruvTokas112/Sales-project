@@ -17,7 +17,7 @@ Key Analysis
  price.
 * Operational Metrics: Analyzed month-over-month growth rates, total salary expenditure by department, and the number of sales made by each customer.
 
-![Analysis](![image](https://github.com/DhruvTokas112/Sales-project/assets/154698854/b050fae4-d8df-4eb4-8e3f-683383a74141))
+![Analysis](https://public-images.interaction-design.org/literature/articles/heros/article_131376_hero_654d8b963adfb4.39819600.png)
 
 Analysis and Findings:
 * Annual Sales Performance Visualization
