@@ -3,8 +3,7 @@
 
 This project provides an in-depth analysis of the SWIFT market dataset, focusing on various aspects of sales performance, trends, and employee contributions. The analysis aims to uncover patterns, identify top performers, and provide actionable insights through data-driven methodologies.
 
-
-The [dataset](https://github.com/DhruvTokas112/Sales-project/blob/main/SwiftMarket-data.sql)
+[dataset](https://github.com/DhruvTokas112/Sales-project/blob/main/SwiftMarket-data.sql)
 
 ![Grocery](https://cdn.dribbble.com/users/6012822/screenshots/14582729/media/ad7c9308c2929b419317afc5201531c4.jpg?resize=400x300&vertical=center) 
 
