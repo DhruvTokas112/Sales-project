@@ -34,6 +34,12 @@ Analysis and Findings:
 * Total Revenue by Category
 
 
+Tools and Technologies
+* Programming Languages: Python
+* Libraries: pandas, NumPy, Matplotlib, Seaborn
+* Platforms: Jupyter Notebook for interactive data analysis and visualization
+
+
 _The following code in [SQlquery.py](https://github.com/DhruvTokas112/Sales-project/blob/main/SQLquery.py) file is for reading the query and converting output to DataFrame_
 ```python
 def read(query):
