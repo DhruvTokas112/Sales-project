@@ -1,11 +1,12 @@
 # SWIFT MARKET DATASET ANALYSIS
 
+---
+
+This project provides an in-depth analysis of the SWIFT market dataset, focusing on various aspects of sales performance, trends, and employee contributions. The analysis aims to uncover patterns, identify top performers, and provide actionable insights through data-driven methodologies.
+
+
 The [dataset](https://github.com/DhruvTokas112/Sales-project/blob/main/SwiftMarket-data.sql)
 
----
-OVERVIEW
-
-This project involves a comprehensive analysis of the SWIFT market dataset. The aim is to uncover insights and trends within the data, providing a deeper understanding of the market dynamics captured by SWIFT transactions.
 
 Write Your Project discription here.
 short bullet points
@@ -50,7 +51,6 @@ def read(query):
     return df
 ```
 ***
-![Grocery](https://5.imimg.com/data5/KQ/LQ/VE/SELLER-14757215/shopping-mall-construction.jpg)
 
 | column1 | column 2|
 |---------|---------|
